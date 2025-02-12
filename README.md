@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**KenSombreo/KenSombreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🔭 I’m currently working on **blockchain projects & Web3**  
+- 🌱 I’m learning **Rust, Substrate, and smart contracts**  
+- 💡 Passionate about **decentralized technology & innovation**  
+- 💬 Ask me about **Xode blockchain, Smoldot, Polkadot, and DeFi**  
+- 🏆 Fun Fact: I love **coding, experimenting with new tech, and problem-solving!**  
+- 🎯 Future Goals: **Contribute more to open-source projects & improve blockchain security**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ken-lemuel-sombreo-a4ba9116a/)  
+- 🌍 [Personal Website](Coming Soon)  
+- 📧 Email: kenlemsombreo.liloan@gmail.com  
